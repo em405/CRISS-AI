@@ -1,4 +1,3 @@
-
 {
   "name": "CRISS-AI",
   "version": "0.0.1",
@@ -11,7 +10,7 @@
     "dev": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:angularsockets",
+    "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
 
     "@dark-yasiya/yt-dl.js": "1.0.5",
